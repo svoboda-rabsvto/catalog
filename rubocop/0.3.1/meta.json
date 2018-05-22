@@ -1,0 +1,10 @@
+{
+    "$schema": "https://schema.linterhub.com/meta.json",
+    "name": "rubocop",
+    "description": "Automatic Ruby code style checking tool. Aims to enforce the community-driven Ruby Style Guide.",
+    "url": "https://rubocop.readthedocs.io/",
+    "languages": [
+        "Ruby"
+    ],
+    "license": "MIT"
+}
